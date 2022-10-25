@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dwagify
 - 👀 I’m interested in Lua, and Python
-- 🌱 I’m currently learning Javascript, and HTML
+- 🌱 I’m currently learning Javascript, CSS, C++, C#, SwiftUI and HTML
 - 📫 How to reach me: Discord: Dwagify.#9014
 
 <!---
